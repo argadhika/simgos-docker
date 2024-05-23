@@ -1,0 +1,1 @@
+rm -rf simgos-rpm/var/www/html/production/webapps/webservice/data/cache/*
