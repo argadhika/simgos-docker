@@ -1,0 +1,9 @@
+/reports/*
+/simgos-rpm/*
+/z-tmp/*
+/tomcat/catalina.properties
+/tomcat/context.xml
+/tomcat/tomcat-users.xml
+/apache/conf.d/*
+/apache/conf.modules.d/*
+*JavaBridge.war
